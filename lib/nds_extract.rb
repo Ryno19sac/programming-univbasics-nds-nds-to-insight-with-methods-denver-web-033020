@@ -4,11 +4,6 @@ require 'pry'
 # Find a way to accumulate the :worldwide_grosses and return that Integer
  def gross_for_director(nds) 
    
-   
-   #binding.pry 
-   
-
- 
   director_index = 0
   totals = 0
    
